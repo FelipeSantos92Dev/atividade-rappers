@@ -1,0 +1,16 @@
+{
+  "name": "atividade-rappers",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido para atender aos requisitos de uma atividade back-end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SENAI",
+    "BackEnd",
+    "Rappers"
+  ],
+  "author": "Felipe Dev Aleatório",
+  "license": "MIT"
+}
